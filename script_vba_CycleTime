@@ -1,4 +1,8 @@
-' Script toma de tiempos en VBA. 
+' Este script fue desarrollado cuando era pasante de ingeniería en Peasa.
+' Compartí este código para automatizar archivos con Visual Basic for Applications (VBA).
+' Esta solución fue eficiente y nos ayudó en el Departamento de Producción.
+
+
 Dim TiempoInicio As Double
 Dim FilaActual As Integer
 Dim ColumnaActual As Integer
